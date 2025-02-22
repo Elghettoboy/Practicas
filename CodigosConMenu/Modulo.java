@@ -1,4 +1,4 @@
-public class Modulo { //nombre de la clase
+class Modulo { //nombre de la clase
     int num, num2; // declaramos 2 variables
 
     public int getNum() {//metodo get

@@ -1,7 +1,7 @@
 // Importamos la librería para entrada de datos
 import java.util.Scanner; 
 // Nombre de la clase
-public class MainMulti { 
+class MainMulti { 
     // Método principal
     public static void main(String[] args) { 
         // Creamos un objeto Scanner
